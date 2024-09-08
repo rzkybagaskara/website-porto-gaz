@@ -1,24 +1,36 @@
-import logo from './logo.svg';
-import './App.css';
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+import React, { useEffect } from 'react';
+import './Home';
+import Home from './Home';
+import './Navbar';
+import Navbar from './Navbar';
+import './Projects';
+import Projects from './Projects';
+import './styles.css';
 
 function App() {
+  // Trigger AOS
+  useEffect(() => {
+    AOS.init();
+    AOS.refresh();
+  }, []);
+  // routing
+  let component;
+  switch (window.location.pathname) {
+    case '/':
+      component = <Home />;
+      break;
+    case '/projects':
+      component = <Projects />;
+      break;
+  }
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    // components
+    <>
+      <Navbar />
+      {component}
+    </>
   );
 }
 

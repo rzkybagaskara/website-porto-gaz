@@ -1,0 +1,26 @@
+[
+  {
+    "project_key": "1",
+    "title": "Paid Search Campaign Analysis",
+    "image": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "A dashboard to display the performances of paid search campaigns from a fictional mall called Tokopakedi.",
+    "project_link": "https://public.tableau.com/app/profile/rizky.bagaskara/viz/PaidSearchCampaignDashboard-Tokopakedi/PaidSearchCampaignDashboard",
+    "easy_report": "https://medium.com/@rizky.bagaskara725/paid-search-campaign-analysis-pacmann-f4b78db40824"
+  },
+  {
+    "project_key": "2",
+    "title": "PacCars Marketplace Database",
+    "image": "https://images.unsplash.com/photo-1489875347897-49f64b51c1f8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "SQL database implementation of a used car marketplace website. Created based on predefined business goals and requirements.",
+    "project_link": "https://github.com/rzkybagaskara/PacCars-Database",
+    "easy_report": "https://drive.google.com/file/d/1FpqnMCqvHvPVtcnaBSCFVoBaNaSOe5kW/view"
+  },
+  {
+    "project_key": "3",
+    "title": "JAKI Dashboard Report 2023",
+    "image": "https://images.unsplash.com/photo-1599658880436-c61792e70672?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "A dashboard to display the performances of JAKI, a super-app to create reports from citizens of DKI Jakarta.",
+    "project_link": "https://public.tableau.com/app/profile/rizky.bagaskara/viz/DashboardJAKI2023/Dashboard1",
+    "easy_report": "https://drive.google.com/file/d/1iEZ0BSLbyRmKe3HlYsj8RacfERDQZ5Pl/view"
+  }
+]
