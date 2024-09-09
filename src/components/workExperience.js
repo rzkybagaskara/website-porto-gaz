@@ -7,7 +7,7 @@ import TimelineSeparator from '@mui/lab/TimelineSeparator';
 
 const experienceTimeline = () => {
   return (
-    <div className="experience mt-80 font-inter">
+    <div className="experience mt-40 font-inter">
       <div className="header-skills" data-aos="zoom-in" data-aos-duration="800">
         <h2 className="text-4xl font-bold text-white mb-10 text-center">Work Experience</h2>
       </div>

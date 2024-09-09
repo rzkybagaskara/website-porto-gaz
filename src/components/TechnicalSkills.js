@@ -1,6 +1,6 @@
 const technicalSkills = () => {
   return (
-    <div className="mt-80">
+    <div className="mt-40">
       {/* Header */}
       <div className="header-skills font-inter" data-aos="zoom-in" data-aos-duration="800">
         <h2 className="text-4xl font-bold text-white mb-10 text-center">Technical Skills</h2>

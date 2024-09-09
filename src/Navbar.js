@@ -44,7 +44,7 @@ export default function Navbar() {
       </button>
 
       {/* Mobile Menu */}
-      <div className={`${nav ? 'flex' : 'hidden'} absolute top-16 left-0 w-full bg-opacity-80 flex-col items-center space-y-6 py-4 md:hidden`}>
+      <div className={`${nav ? 'flex' : 'hidden'} absolute top-16 left-0 w-full z-10 bg-opacity-80 flex-col items-center space-y-6 py-4 md:hidden`}>
         <a href="/" className="text-xl text-white">
           Home
         </a>
