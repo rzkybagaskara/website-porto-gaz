@@ -7,7 +7,7 @@ module.exports = {
         'light-gray': '#d3d3d3',
       },
       fontFamily: {
-        body: ['Inter'],
+        inter: ['Inter', 'Segoe UI'],
       },
     },
   },

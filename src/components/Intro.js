@@ -4,7 +4,7 @@ import { IoLogoTableau } from 'react-icons/io5';
 
 const introComponent = () => {
   return (
-    <div className="mt-20 ml-10 flex flex-row">
+    <div className="mt-20 ml-10 flex flex-row font-inter">
       {/* Introduction Text */}
       <div className="mr-4 mt-20" data-aos="fade-right" data-aos-duration="800">
         <h1 className="text-5xl font-bold text-white mb-10">Rizky Bagaskara</h1>

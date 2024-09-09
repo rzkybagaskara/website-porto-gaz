@@ -10,7 +10,7 @@ export default function Navbar() {
   };
 
   return (
-    <nav className="nav mt-5 pt-0 pr-1 flex justify-between text-white">
+    <nav className="nav mt-5 pt-0 pr-1 flex justify-between text-white font-inter">
       {/* Left Side (Brand + Links) */}
       <div className="flex items-center space-x-6">
         {/* Navbar brand */}

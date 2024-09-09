@@ -2,7 +2,7 @@ import projectsData from '../data/projects.json';
 
 const projectList = () => {
   return (
-    <div class="grid lg:grid-cols-3 md:grid-cols-1 mr-10 mt-20 ml-10 gap-20" data-aos="fade-up" data-aos-duration="800">
+    <div class="grid lg:grid-cols-3 md:grid-cols-1 mr-10 mt-20 ml-10 gap-20 font-inter" data-aos="fade-up" data-aos-duration="800">
       {projectsData.map((project) => (
         <div className="max-w-sm border border-white-800 rounded shadow mx-auto">
           <div className="p-4" key={project.project_key}>
