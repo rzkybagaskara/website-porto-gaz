@@ -32,7 +32,7 @@ const introComponent = () => {
       </div>
 
       {/* Hero Image */}
-      <div className="max-sm:hidden h-auto max-w-md ms-auto mr-20" data-aos="fade-left" data-aos-duration="800">
+      <div className="hidden lg:block h-auto ms-auto mr-20" data-aos="fade-left" data-aos-duration="800">
         <img src="/Hero_resized.jpg" alt="hero image" class="mx-auto md:h-128 md:w-128 w-full max-w-lg object-cover rounded-3xl" />
       </div>
     </div>
