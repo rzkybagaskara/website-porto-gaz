@@ -12,16 +12,16 @@ const introComponent = () => {
         {/* Social Icons */}
         <div className="flex gap-5 mb-5">
           <a href="https://www.linkedin.com/in/rizky-bagaskara" target="_blank">
-            <FaLinkedin size={30} color="white" className="hover:bg-emerald-700 duration-300 hover:scale-110" />
+            <FaLinkedin size={30} color="white" className="hover:bg-indigo-500 duration-300 hover:scale-110" />
           </a>
           <a href="https://github.com/rzkybagaskara/" target="_blank">
-            <FaGithub size={30} color="white" className="hover:bg-emerald-700 duration-300 hover:scale-110" />
+            <FaGithub size={30} color="white" className="hover:bg-indigo-500 duration-300 hover:scale-110" />
           </a>
           <a href="https://drive.google.com/file/d/1GLNXWRIMpSQ1fJVq3COEJ_dYOnmHYzEi/view" target="_blank">
-            <FaFilePdf size={30} color="white" className="hover:bg-emerald-700 duration-300 hover:scale-110" />
+            <FaFilePdf size={30} color="white" className="hover:bg-indigo-500 duration-300 hover:scale-110" />
           </a>
           <a href="https://public.tableau.com/app/profile/rizky.bagaskara/vizzes" target="_blank">
-            <IoLogoTableau size={30} color="white" className="hover:bg-emerald-700 duration-300 hover:scale-110" />
+            <IoLogoTableau size={30} color="white" className="hover:bg-indigo-500 duration-300 hover:scale-110" />
           </a>
         </div>
 
@@ -33,7 +33,7 @@ const introComponent = () => {
 
       {/* Hero Image */}
       <div className="hidden lg:block h-auto ms-auto mr-20" data-aos="fade-left" data-aos-duration="800">
-        <img src="/Hero_resized.jpg" alt="hero image" class="mx-auto md:h-128 md:w-128 w-full max-w-lg object-cover rounded-3xl" />
+        <img src="/Hero_resized.jpg" alt="hero image" class="mx-auto md:h-128 md:w-128 w-full max-w-lg object-cover rounded-3xl transition-all duration-300 hover:scale-110" />
       </div>
     </div>
   );
