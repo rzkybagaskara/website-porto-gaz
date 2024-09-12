@@ -17,7 +17,7 @@ const introComponent = () => {
           <a href="https://github.com/rzkybagaskara/" target="_blank">
             <FaGithub size={30} color="white" className="hover:bg-indigo-500 duration-300 hover:scale-110" />
           </a>
-          <a href="https://drive.google.com/file/d/1GLNXWRIMpSQ1fJVq3COEJ_dYOnmHYzEi/view" target="_blank">
+          <a href="https://drive.google.com/file/d/10sfJVdkBKh7duVmcFGnRDtA2n1bSO2E9/view" target="_blank">
             <FaFilePdf size={30} color="white" className="hover:bg-indigo-500 duration-300 hover:scale-110" />
           </a>
           <a href="https://public.tableau.com/app/profile/rizky.bagaskara/vizzes" target="_blank">
