@@ -28,8 +28,8 @@ const introComponent = () => {
         <p className="text-2xl text-white">Fresh Graduate Informatics Major from Gunadarma University. </p>
         {/* <p className="text-2xl text-white"> with over a year of experience in the Data Analytics field.</p> */}
         <br></br>
-        <p className="text-2xl text-white">Currently working as a Business Application Developer at PT ASDP Indonesia Ferry Persero, </p>
-        <p className='text-2xl text-white'>specializing in creating dashboards for data visualizations and analysis.</p>
+        <p className="text-2xl text-white">Currently working as a Enterprise Solutions Architect at PT ASDP Indonesia Ferry Persero. </p>
+        {/* <p className="text-2xl text-white">specializing in creating dashboards for data visualizations and analysis.</p> */}
         <br></br>
         {/* <p className="text-2xl text-white">I'm familiar with BI Tools (Power BI and Tableau), RDBMS (SQL and Oracle), Python</p>
         <p className='text-2xl text-white'>and currently learning Talend for ETL.</p> */}

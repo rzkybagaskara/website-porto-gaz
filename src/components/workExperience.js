@@ -14,7 +14,7 @@ const experienceTimeline = () => {
 
       <div className="timeline pb-20" data-aos="fade-up" data-aos-duration="800">
         <Timeline position="alternate">
-        <TimelineItem>
+          <TimelineItem>
             <TimelineSeparator>
               <TimelineDot />
               <TimelineConnector />
@@ -22,7 +22,7 @@ const experienceTimeline = () => {
             <TimelineContent>
               <div className="timeline-1 text-xl text-white">
                 <p className="font-bold">PT ASDP Indonesia Ferry Persero</p>
-                <p>Business Application Developer (Dec 2024 - Now) </p>
+                <p>Enterprise Solutions Architect (Dec 2024 - Now) </p>
               </div>
             </TimelineContent>
           </TimelineItem>
