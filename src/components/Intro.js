@@ -17,7 +17,7 @@ const introComponent = () => {
           <a href="https://github.com/rzkybagaskara/" target="_blank">
             <FaGithub size={30} color="white" className="hover:bg-indigo-500 duration-300 hover:scale-110" />
           </a>
-          <a href="https://drive.google.com/file/d/10sfJVdkBKh7duVmcFGnRDtA2n1bSO2E9/view" target="_blank">
+          <a href="https://drive.google.com/file/d/13XFGJ7B1sBq00R3lrp-vffq5L9g_bCi6/view" target="_blank">
             <FaFilePdf size={30} color="white" className="hover:bg-indigo-500 duration-300 hover:scale-110" />
           </a>
           <a href="https://public.tableau.com/app/profile/rizky.bagaskara/vizzes" target="_blank">
@@ -25,7 +25,7 @@ const introComponent = () => {
           </a>
         </div>
 
-        <p className="text-2xl text-white">Fresh Graduate Informatics Major from Gunadarma University. </p>
+        <p className="text-2xl text-white">Recent Informatics Graduate from Gunadarma University. </p>
         {/* <p className="text-2xl text-white"> with over a year of experience in the Data Analytics field.</p> */}
         <br></br>
         <p className="text-2xl text-white">Currently working as a Enterprise Solutions Architect at PT ASDP Indonesia Ferry Persero. </p>
